@@ -6,3 +6,7 @@ Serverless Portfolio using AWS
 
 Git and Github
 SSH
+HTML
+CSS
+FONT AWESOME
+GOOGLE FONTS
